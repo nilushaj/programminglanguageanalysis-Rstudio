@@ -1,0 +1,10 @@
+name: stack_exchange_analysiz
+title:
+username:
+account: stackexchangeanalysis
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 415522
+bundleId: 1630007
+url: https://stackexchangeanalysis.shinyapps.io/stack_exchange_analysiz/
+when: 1539021449.40431
